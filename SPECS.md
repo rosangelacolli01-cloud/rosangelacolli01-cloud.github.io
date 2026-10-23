@@ -4,7 +4,7 @@
 **Dona:** Rosângela Colli (`rosangelacolli01-cloud`)
 **Repositório:** `rosangelacolli01-cloud.github.io` (pasta raiz do GitHub Pages)
 **Versão do documento:** 1.0 — planejamento
-**Status:** conteúdo base coletado do LinkedIn; pendente aprovação de textos e lista de projetos
+**Status:** v1 publicada no GitHub Pages
 **Última atualização:** 2026-10-23
 
 > Documento de requisitos. Regras de conduta e design system detalhado estão em `AGENTS.md`.
