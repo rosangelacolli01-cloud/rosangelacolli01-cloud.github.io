@@ -128,6 +128,7 @@ Para adicionar um projeto ao portfólio:
 
 ## 📬 Contato
 
+- **WhatsApp:** [(54) 99902-6660](https://wa.me/5554999026660)
 - **LinkedIn:** [linkedin.com/in/rosangelacolli](https://www.linkedin.com/in/rosangelacolli)
 - **GitHub:** [github.com/rosangelacolli01-cloud](https://github.com/rosangelacolli01-cloud)
 - **E-mail:** [collirosangela@hotmail.com](mailto:collirosangela@hotmail.com)
