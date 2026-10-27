@@ -154,7 +154,7 @@ site-pessoal/
 │   │   ├── i18n.js
 │   │   └── projects.js
 │   ├── img/
-│   │   ├── foto-perfil.jpg   ← fornecida pela usuária
+│   │   ├── foto-perfil-2.jpg   ← fornecida pela usuária
 │   │   ├── projects/         ← thumbnails dos projetos
 │   │   └── favicon.svg
 │   └── i18n/

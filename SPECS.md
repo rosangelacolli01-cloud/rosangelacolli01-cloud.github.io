@@ -60,7 +60,7 @@ Um site pessoal estático, rápido e visualmente marcante, que apresenta a Rosâ
 | E-mail | `collirosangela@hotmail.com` — **aprovado para publicação** |
 | LinkedIn | `https://www.linkedin.com/in/rosangelacolli` |
 | GitHub | `https://github.com/rosangelacolli01-cloud` |
-| Foto de perfil | `assets/img/foto-perfil.jpg` — **atualizada** (600×600, 58 KB) |
+| Foto de perfil | `assets/img/foto-perfil-2.jpg` — **atualizada** (600×600, 58 KB) |
 | Projetos | **Nenhum ainda** — ver §3.6 |
 
 #### Dados privados — NÃO publicar
@@ -366,7 +366,7 @@ assets/img/… · data/projects.json
 ### 11.1 Pendências bloqueantes
 
 - [x] Nome, headline, localização e trajetória (coletados do LinkedIn)
-- [x] Foto de perfil (`assets/img/foto-perfil.jpg`, 600×600)
+- [x] Foto de perfil (`assets/img/foto-perfil-2.jpg`, 600×600)
 - [x] Bios PT/EN aprovadas (§3.4)
 - [x] E-mail de publicação definido: `collirosangela@hotmail.com`
 - [x] Nome do repositório: `rosangelacolli01-cloud.github.io`

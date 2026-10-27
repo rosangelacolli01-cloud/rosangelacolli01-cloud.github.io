@@ -61,7 +61,7 @@ rosangelacolli01-cloud.github.io/
     │   └── en.json         # Dicionário em Inglês
     └── img/
         ├── favicon.svg     # Favicon em formato vetorial
-        └── foto-perfil.jpg # Fotografia profissional de perfil
+        └── foto-perfil-2.jpg # Fotografia profissional de perfil
 ```
 
 ---
