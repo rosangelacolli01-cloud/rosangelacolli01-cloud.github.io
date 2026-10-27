@@ -60,7 +60,7 @@ Um site pessoal estático, rápido e visualmente marcante, que apresenta a Rosâ
 | E-mail | `collirosangela@hotmail.com` — **aprovado para publicação** |
 | LinkedIn | `https://www.linkedin.com/in/rosangelacolli` |
 | GitHub | `https://github.com/rosangelacolli01-cloud` |
-| Foto de perfil | `assets/img/foto-perfil.jpg` — **salva** (600×600, 46 KB) |
+| Foto de perfil | `assets/img/foto-perfil.jpg` — **atualizada** (600×600, 44 KB) |
 | Projetos | **Nenhum ainda** — ver §3.6 |
 
 #### Dados privados — NÃO publicar
